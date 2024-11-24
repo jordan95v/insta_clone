@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InstaClone</string>
+    <string name="dymagram_app_name">InstaClone</string>
+
+
+    <string name="login_page_login_input_hint">Username, mail, phone</string>
+    <string name="login_page_password_input_hint">Password</string>
+    <string name="login_page_sign_up_text">You don\'t have accounts? Log in</string>
+
+
+    <string name="login_page_login_button">Log in</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_profile_picture_description">User profile picture</string>
+    <string name="sample_text_conversation_cell_last_message">LoremipsuLoremipsuLoremipsuLoremipsuLoremipsuLoremipsuLoremipsuLoremipsu</string>
+    <string name="notification_sample_text_conversation_cell">99</string>
+    <string name="navigation_tab_home">Home</string>
+    <string name="navigation_tab_search">Search</string>
+    <string name="navigation_tab_new">New</string>
+    <string name="navigation_tab_reels">Reels</string>
+    <string name="navigation_tab_profile">profile</string>
+    <string name="story_image_view_description">story_image_content</string>
+    <string name="story_detail_user_profile_pic_image_view">TODO</string>
+    <string name="user_story_detail_comment_text_hint">Commenter la story</string>
+    <string name="reload_data_text">Recharger les données</string>
+    <string name="load_data_when_error_image_view">Load data when error image view</string>
+    <string name="hint_story_user_name">username</string>
+    <string name="hint_story_user_name_text">Toto Dyma</string>
+    <string name="hint_sample_user_pseudo_text">\@tot0_dyma</string>
+    <string name="add_story_button">TODO</string>
+    <string name="camera_switch_btn_description">Changer de camera</string>
+    <string name="flash">Flash</string>
+    <string name="capture">Capture</string>
+    <string name="dymagram_app_logo">Dymagram app logo</string>
+    <string name="boutton_pour_se_connecter">Boutton pour se connecter</string>
+    <string name="dyma_new_stories_to_watch">You have %1$d stories unseen</string>
+    <string name="likes_and_comments"><![CDATA[Likes & Commentaires]]></string>
+    <string name="commentaire_sample">Commentaire sample</string>
+    <string name="phono_contenue_dans_le_poste">Phono contenue dans le poste</string>
+    <string name="plus_d_information_sur_l_utilisateur">Plus d\'information sur l\'utilisateur</string>
+    <string name="photo_de_profile_de_l_utilisateur">Photo de profile de l\'utilisateur</string>
+    <string name="sample_user_name">Toto User</string>
+    <string name="sample_user_tag">\@tot0_user</string>
+    <string name="bouton_j_aime">Bouton j\'aime</string>
+    <string name="sample_likes_number">1234</string>
+    <string name="icon_commentaire">Icon commentaire</string>
+    <string name="sample_comment_number">1234</string>
+    <string name="sample_shares_count">1234</string>
+    <string name="icon_de_partage">Icon de partage</string>
+</resources>
